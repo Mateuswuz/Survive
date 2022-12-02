@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-133,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angry killer left"
+		},
+		{
+			"offsets": [
+				-110,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angry killer down"
+		},
+		{
+			"offsets": [
+				-103,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angry killer righ"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angry killer idle"
+		},
+		{
+			"offsets": [
+				-15,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angry killer up"
+		},
+		{
+			"offsets": [
+				-80,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shot",
+			"indices": [],
+			"name": "angry killer gunshot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-11
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "angry killer reload",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_killer_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "killer",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

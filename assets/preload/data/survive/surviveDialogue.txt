@@ -1,0 +1,62 @@
+:musicloop:killerdialouge/killerdialoguemusic
+:bg:cutscenes/ohnoitshim
+:sound:bfText
+:soundoverwrite:dialogue/survive/killer/1
+:K-5:Damn, I didn't expect you both to sound as good as you do. For a minute there, I almost actually enjoyed my time singing.
+:soundoverwritestop:
+:musicstop:
+:bg:cutscenes/kill
+:musicstop:
+:soundoverwrite:dialogue/survive/gunhit/Impact
+:bb-14:!!!
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/bb/1
+:bb-15:......
+:soundoverwritestop:
+:bf-13:!!!
+:musicloop:bbshotdialouge/bbshotdialoguemusic
+:soundoverwrite:dialogue/survive/killer/2
+:K-4:Whoops, my finger must've slipped. My bad.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-14:Beep B!
+:disableTypeSound:
+:bb-15:...
+:soundoverwrite:dialogue/survive/killer/3
+:K-2:One down, one more to go.
+:soundoverwritestop:
+:bf-15:...
+:bb-15:...
+:soundoverwrite:dialogue/survive/bb/2
+:bb-16:Keith.. go behind the speaker, now.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-13:b-beep!?
+:disableTypeSound:
+:soundoverwrite:dialogue/survive/killer/4
+:K-5:Huh? You're still standing?
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/bb/3
+:boxanim:pissedOpen
+:bb-19:KEITH, GO BEHIND THE SPEAKER NOW!
+:soundoverwritestop:
+:bg:cutscenes/trymebitch
+:enableTypeSound:
+:bf-13:EEP!
+:disableTypeSound:
+:soundoverwrite:dialogue/survive/bb/4
+:bb-18:AS FOR YOU, I'LL  RIP THAT OTHER WING OFF OF YOU, YOU FLYING RAT!!
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/bb/5
+:bb-18:HOW DARE YOU COME IN TO MY LIFE, TORMENT ME FOR MONTHS, AND TRY TO KILL ME, AGAIN!
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/bb/6
+:bb-18:NOT THIS TIME. I AIN'T PLAYING SOFT ANYMORE!
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/bb/7
+:bb-20:FUCK MY VOICE! TIME TO BE A FUCKIN HERO, AND TAKE YOU OUT!
+:soundoverwritestop:
+:soundoverwrite:dialogue/survive/killer/5
+:K-6:UGH.
+:soundoverwritestop:
+:musicstop:

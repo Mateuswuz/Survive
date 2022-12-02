@@ -1,0 +1,98 @@
+:musicloop:bbshotdialouge/bbshotdialoguemusic
+:bg:cutscenes/trymebitch
+:soundoverwrite:dialogue/end/pants
+:blank:...
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/empty
+:blank:...
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/2
+:K-5:No.. no no fuck, why now? This isn't fair!
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/2
+:bb-23:Heh, out of bullets, I guess you can say. HUH?
+:soundoverwritestop:
+:K-9:!!
+:soundoverwrite:dialogue/end/killer/3
+:K-10:I'm the angel here! I'm the good guy! You guys have the demon on your side!
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/4
+:K-10:I'm trying to do what is good for this place! This is all wrong!
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/3
+:bb-22:What?
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/5
+:K-10:GAH! I hate you! Why are you protecting this stupid succubus?
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/6
+:K-10:You weren't meant to be killed that day. Why are you ruining my LIFE?
+:soundoverwritestop:
+:bb-22:...
+:K-11:...
+:soundoverwrite:dialogue/end/bb/4
+:bb-24:I'm... not the bad guy here.. I love my brother as family, and I want what makes him happy.
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/5
+:bb-24:And he's happy with her, so..
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/6
+:bb-24:..why wouldn't I do what I can to make sure they are happy?
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/8
+:K-9:She's.. a demon!
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/7
+:bb-26:Don't judge a book by it's cover, man. You're an angel, and look who's really the villain in this situation. It's YOU.
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/killer/9
+:K-12:This.. just.. can't be right.
+:soundoverwrite:dialogue/end/bb/8
+:bb-21:You need to get your head out of your ass, and get some serious anger management classes.
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/9
+:bb-21:You need it. If you seriously think we are the bad guys, you need a reality check, man.
+:soundoverwritestop:
+:K-11:...
+:soundoverwrite:dialogue/end/killerrunningawaylikealittlebitch
+:blank:...
+:soundoverwritestop:
+:musicstop:
+:musicloop:dialogue/dialoguemusic
+:bg:cutscenes/helpmebroimbleedingthefuckout
+:enableTypeSound:
+:bf-15:...b-beep?
+:disableTypeSound:
+:soundoverwrite:dialogue/end/bb/10
+:bb-27:It's okay, bro. You and your girl can come out now. I.. don't think he'll be coming back any time soon.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-18:...beop bee..
+:disableTypeSound:
+:soundoverwrite:dialogue/end/bb/11
+:bb-27:Yeah, I'll be fine he shot me somewhere where there were no vitals. I'm okay.
+:soundoverwritestop:
+:soundoverwrite:dialogue/end/bb/12
+:bb-27:Let's get back inside. I'm tired, and really should get this wrapped up.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-16:Beep.
+:disableTypeSound:
+:bg:cutscenes/ending_card
+:pause:
+:pause:
+:blank:The end... Thank you for playing!
+:bgtoblack:
+:hidebox:
+:pause:
+:textcolor:red
+:centertypeshit:
+Michael...
+You truly do live up to your name.
+You remind me of a close friend with a similar name in heaven...
+Fitting.
+Perhaps, they casted me out for a reason, to allow me experience this...
+to get me to snap out of this obsessed rage...
+They loved me back home. I see, I... I have a lot of reflecting I need to do.
+I'm not the righteous angel I thought I was. All the mess I've done speaks for itself.. *sigh*
+- Signed, [REDACTED NAME]

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"survive",
+			"killer",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "fallen grace",
+	"weekName": "fallen grace",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
